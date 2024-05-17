@@ -1,0 +1,1 @@
+Rails向けVSCodeの設定
