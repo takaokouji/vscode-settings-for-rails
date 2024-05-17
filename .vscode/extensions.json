@@ -30,6 +30,7 @@
         "sakapoko.vscode-emacs-indent",
         "garaemon.vscode-emacs-tab",
         "bung87.vscode-gemfile",
-        "mosapride.zenkaku"
+        "mosapride.zenkaku",
+        "davidanson.vscode-markdownlint"
     ]
 }
